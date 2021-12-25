@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>This is the Pull Request Tutoril</h1>
+      <h1>Get Faaacked</h1>
     </div>
   );
 }
